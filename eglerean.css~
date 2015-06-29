@@ -1,0 +1,326 @@
+
+* 	{	
+	margin:0px;
+	padding:0px;
+	}
+
+body	{ 
+	font-family: Helvetica, sans-serif;
+        font-size: 12px;
+        line-height:18px;
+        color: black;
+	background-color:white;
+	margin:20px;
+	text-align: justify;
+	}
+               
+#index  {
+	width:666px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img {border:none;}
+
+a{ border-bottom:1px dotted #ccc;
+text-decoration:none;
+background:white;
+	color:#000;
+	font-weight:none;
+	}
+
+a:hover {color:white;}
+.centered{
+	text-align:center;
+}
+.justify{
+	text-align:justify;
+}
+
+
+.leftborder {
+border:none;
+padding-right:10px
+
+}
+
+table td {
+vertical-align: top;
+}
+
+
+
+
+/*---------------------------------------*/
+
+
+	
+table	{
+	font-family: sans-serif, helvetica, Verdana, Arial ;
+        font-size: 11px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+	
+
+h1 {
+	font-size:36px;
+	line-height:36px;
+	margin:0px;
+	padding:0px;
+margin-left:-3px;
+	
+}
+
+h2 {
+	font-size:15px;
+}
+	
+ul {
+	margin-left:40px;
+	margin-top:15px;
+	margin-bottom:20px;
+}
+
+
+.minititledgreen{
+	font-size:13px;
+	letter-spacing:1px;
+	margin-bottom:5px;
+	display:block;
+	font-weight:bold;
+	background:#00965E;
+	color:white;
+	font-family:Helvetica, Arial;
+	padding:5px;
+}
+
+
+.minititlelgreen{
+	font-size:13px;
+	letter-spacing:1px;
+	margin-bottom:5px;
+	display:block;
+	font-weight:bold;
+	background:#78BE20;
+	color:white;
+	font-family:Helvetica, Arial;
+		padding:5px;
+
+}
+
+.minititlered{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#EF3340;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+
+
+.minititlelorange{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#FFA500;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+.minititledorange{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#FF671F;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+.minititledviolet{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#BB16A3;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+
+.minititlelviolet{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#753BBD;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+.minititleblue{
+        font-size:18px;
+        letter-spacing:2px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;        
+        background:#005EB8;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:7px;
+
+}
+
+.minititlered{
+        font-size:13px;
+        letter-spacing:1px;        
+        margin-bottom:5px;
+        display:block;
+        font-weight:bold;
+        background:#EF3340;
+        color:white;
+        font-family:Helvetica, Arial;
+        	padding:5px;
+
+}
+
+
+
+.dgreen a{
+    color:#00965E;
+    font-weight:bold;
+    background:#fff;
+}
+
+.dgreen a:hover{
+    color:#fff;
+    background:#00965E;
+}
+
+.lgreen a{
+    color:#78BE20;
+    font-weight:bold;
+    background:#fff;
+}
+
+.lgreen a:hover{
+    color:#fff;
+    background:#78BE20;
+}
+
+.lorange a{
+    color:#FFA500;
+    font-weight:bold;
+    background:#fff;
+}
+
+.lorange a:hover{
+    color:#fff;
+    background:#FFA500;
+}
+
+.dorange a{
+    color:#FF671F;
+    font-weight:bold;
+    background:#fff;
+}
+
+.dorange a:hover{
+    color:#fff;
+    background:#FF671F;
+}
+
+.red a{
+    color:#EF3340;
+    font-weight:bold;
+    background:#fff;
+}
+
+.red a:hover{
+    color:#fff;
+    background:#EF3340;
+}
+
+.dviolet a{
+    color:#BB16A3;
+    font-weight:bold;
+    background:#fff;
+}
+
+.dviolet a:hover{
+    color:#fff;
+    background:#BB16A3;
+}
+
+.lviolet a{
+    color:#753BBD;
+    font-weight:bold;
+    background:#fff;
+}
+
+.lviolet a:hover{
+    color:#fff;
+    background:#753BBD;
+}
+
+.blue a{
+    color:#005EB8;
+    font-weight:bold;
+    background:#fff;
+}
+
+.blue a:hover{
+    color:#fff;
+    background:#005EB8;
+}
+
+.hilite	{
+	font-weight: bold;
+	color: #BB16A3;
+}
+
+
+
+
+
+ol li{
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+ol.smallOL li{
+margin:0px 0px 0px 15px;
+padding:0px;
+}
+
+a.homelink{
+background:black;
+color:white;
+font-weight:bold;
+font-size:60px;
+line-height:80px;
+padding:5px;
+}
+a.homelink:hover{
+background:#909;
+}
